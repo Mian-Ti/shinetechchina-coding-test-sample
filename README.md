@@ -1,3 +1,9 @@
+# 写在前面
+
+这公司很奇怪，一进来就叨叨叨的说什么我们公司转为大龄程序员之类的，还说什么公司账户制度，大概意思就是你给公司干活，你工资有些钱公司不给你发，放公司户头上，也没说要给你增值或者股份，反正絮絮叨叨没说一些有用的，听着就很低端。跟我对接做招聘的，竟然说自己以前做iOS的，我表示很吃惊。做iOS的竟然可以沦落到在外包公司做招聘。前期面试，面试官英文坑里吧唧，十句没五句能连成一句话，我真有点看不起啊。
+
+这个是面试前题目，说客户是雅诗兰黛，题目是仿照另一个化妆品网站做个搜索功能。代码模板就是这个，前端用React 16.2，后端node的原生http库。这模板用gulp，React用16.2这么老，何谈最佳实践？大概率是想骗个日常功能，写进他们代码里。自己看看吧，社会花这么多时间，争取一个低工资而且外包，还对你挑三拣四的公司呢？
+
 # ELC Javscript Coding Test
 
 The ELC Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
