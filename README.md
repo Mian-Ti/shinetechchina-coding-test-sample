@@ -4,6 +4,8 @@
 
 这个是面试前题目，说客户是雅诗兰黛，题目是仿照另一个化妆品网站做个搜索功能。代码模板就是这个，前端用React 16.2，后端node的原生http库。这模板用gulp，React用16.2这么老，何谈最佳实践？大概率是想骗个日常功能，写进他们代码里。自己看看吧，谁会花这么多时间，争取一个低工资而且外包，还对你挑三拣四的公司呢？
 
+### 简单总结一下，就是一个贩卖35岁焦虑的外包公司。用不需要解释清楚的制度，剥削焦虑中的中年男人~实则下作啊！
+
 # ELC Javscript Coding Test
 
 The ELC Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
